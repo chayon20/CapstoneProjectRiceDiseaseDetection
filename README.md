@@ -94,7 +94,13 @@ Estimated project cost: **28,440 – 52,500 BDT**
 - Optimize for **lightweight edge devices**  
 
 ---
+## 📽️ Project Demonstration  
+Watch the full project demo video here:  
 
+[![Rice Disease Detection Demo](https://img.youtube.com/vi/GOXaCI9eqBs/0.jpg)](https://www.youtube.com/watch?v=GOXaCI9eqBs)  
+
+*(Click the thumbnail to watch on YouTube)*  
+---
 ## 👨‍💻 Authors  
 - **Chayon Kumar Das** (ID: 2001015)  
 - **Suvro Kumar Das** (ID: 2001021)  
