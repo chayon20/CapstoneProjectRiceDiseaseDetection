@@ -68,14 +68,33 @@ By combining **computer vision** with **IoT sensors**, the system helps farmers 
 
 ---
 
-## 📊 Results  
-| Model              | Accuracy | F1 Score | Precision | Recall |  
-|--------------------|----------|----------|-----------|--------|  
-| EfficientNet-B4    | 97.13%   | 0.97     | 0.97      | 0.97   |  
-| DenseNet121        | 97.20%   | 0.98     | 0.99      | 0.97   |  
-| Xception41         | 97.07%   | 0.97     | 0.96      | 0.97   |  
-| MobileNetV3-Large  | 96.73%   | 0.96     | 0.96      | 0.96   |  
-| Ensemble Model     | **97.50%** | **0.98** | **0.98**  | **0.98** |  
+## 📊 Model Performance Comparison  
+
+| Model                    | Accuracy (%) | F1 Score | Precision | Recall | Loss   | Std. Dev. |
+|---------------------------|--------------|----------|-----------|--------|--------|-----------|
+| EfficientNet-B4           | 97.13        | 0.97     | 0.97      | 0.97   | 0.1511 | 0.01      |
+| Xception41                | 97.07        | 0.96     | 0.97      | 0.96   | 0.1406 | 0.02      |
+| DenseNet121               | 97.20        | 0.98     | 0.99      | 0.97   | 0.1367 | 0.02      |
+| DenseNet201               | 97.20        | 0.99     | 0.97      | 0.98   | 0.1312 | 0.02      |
+| MobileNetV3-Large         | 96.73        | 0.96     | 0.96      | 0.96   | 0.1510 | 0.03      |
+| InceptionV3               | 96.53        | 0.96     | 0.96      | 0.96   | 0.1487 | 0.03      |
+| AlexNet                   | 95.60        | 0.95     | 0.95      | 0.95   | 0.2162 | 0.04      |
+| ResNet50                  | 95.80        | 0.95     | 0.96      | 0.95   | 0.1566 | 0.02      |
+| GoogLeNet / Inception-v1  | 97.07        | 0.97     | 0.97      | 0.97   | 0.1267 | 0.02      |
+| VGG19                     | 93.87        | 0.94     | 0.94      | 0.94   | 0.2907 | 0.03      |
+| ShuffleNet                | 92.13        | 0.92     | 0.92      | 0.92   | 0.2750 | 0.05      |
+| SqueezeNet                | 89.73        | 0.90     | 0.90      | 0.90   | 0.3707 | 0.05      |
+| Improved LeNet-5          | 86.67        | 0.87     | 0.87      | 0.87   | 0.6007 | 0.06      |
+| **Ensemble Model**        | **97.50**    | **0.98** | **0.98**  | **0.98** | **0.5762** | **0.00** |
+
+---
+
+## 📽️ Project Demonstration  
+Watch the full project demo video here:  
+
+[![Rice Disease Detection Demo](https://img.youtube.com/vi/GOXaCI9eqBs/0.jpg)](https://www.youtube.com/watch?v=GOXaCI9eqBs)  
+
+*(Click the thumbnail to watch on YouTube)*  
 
 ---
 
@@ -94,13 +113,7 @@ Estimated project cost: **28,440 – 52,500 BDT**
 - Optimize for **lightweight edge devices**  
 
 ---
-## 📽️ Project Demonstration  
-Watch the full project demo video here:  
 
-[![Rice Disease Detection Demo](https://img.youtube.com/vi/GOXaCI9eqBs/0.jpg)](https://www.youtube.com/watch?v=GOXaCI9eqBs)  
-
-*(Click the thumbnail to watch on YouTube)*  
----
 ## 👨‍💻 Authors  
 - **Chayon Kumar Das** (ID: 2001015)  
 - **Suvro Kumar Das** (ID: 2001021)  
@@ -111,4 +124,3 @@ Watch the full project demo video here:
 ## 📜 License  
 This project is developed for **academic and research purposes**.  
 Please cite the authors when using this work.  
-
