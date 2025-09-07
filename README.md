@@ -48,6 +48,21 @@ By combining **computer vision** with **IoT sensors**, the system helps farmers 
   - Disease type + confidence score  
   - Soil nutrient analysis & recommendations  
 
+<p align="center">
+  <img src="static/images/Hardware Setup.png" alt="Hardware Setup" width="800"/>
+</p>
+<p align="center">
+  <sub>Figure 1: Hardware Setup</sub>
+</p>
+
+<p align="center">
+  <img src="static/images/Full Project Setup.png" alt="Full Project Setup" width="800"/>
+</p>
+<p align="center">
+  <sub>Figure 2: Full Project Setup</sub>
+</p>
+
+
 ---
 
 ## 🧠 Deep Learning Workflow  
@@ -94,7 +109,7 @@ Watch the full project demo video here:
 
 [![Rice Disease Detection Demo](https://img.youtube.com/vi/GOXaCI9eqBs/0.jpg)](https://www.youtube.com/watch?v=GOXaCI9eqBs)  
 
-*(Click the thumbnail to watch on YouTube)*  
+<sub>Click the thumbnail to watch on YouTube</sub>
 
 ---
 
@@ -123,4 +138,4 @@ Estimated project cost: **28,440 – 52,500 BDT**
 
 ## 📜 License  
 This project is developed for **academic and research purposes**.  
-Please cite the authors when using this work.  
+Please cite the authors when using this work.
