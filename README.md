@@ -1,4 +1,4 @@
-# 🌾 Rice Disease Detection & Soil Health Monitoring  
+# 🌾 Rice Disease Detection Using DL& Soil Health Monitoring
 
 ## 📌 Overview  
 This project integrates **Deep Learning (DL)** and **IoT-based soil monitoring** to support **precision agriculture**.  
