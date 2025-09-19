@@ -128,16 +128,7 @@ Estimated project cost: **28,440 – 52,500 BDT**
 - Optimize for **lightweight edge devices**  
 
 ---
-### 📥 Installation  
-```bash
-# Clone repository
-git clone https://github.com/chayon20/CapstoneProject
-cd CapstoneProject
-# Install dependencies
-pip install -r requirements.txt
 
-# Run the web app
-python app.py
 
 # Install dep
 ## 👨‍💻 Authors  
@@ -150,3 +141,13 @@ python app.py
 ## 📜 License  
 This project is developed for **academic and research purposes**.  
 Please cite the authors when using this work.
+### 📥 Installation  
+```bash
+# Clone repository
+git clone https://github.com/chayon20/CapstoneProject
+cd CapstoneProject
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the web app
+python app.py
