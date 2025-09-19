@@ -132,8 +132,8 @@ Estimated project cost: **28,440 – 52,500 BDT**
 
 # Install dep
 ## 👨‍💻 Authors  
-- **Chayon Kumar Das** (ID: 2001015)  
-- **Suvro Kumar Das** (ID: 2001021)  
+- **Chayon Kumar Das** 
+- **Suvro Kumar Das** 
 - Supervised by: **Md Toukir Ahmed**, Assistant Professor, Dept. of IoT & Robotics Engineering, Gazipur Digital University  
 
 ---
