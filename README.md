@@ -134,7 +134,7 @@ Estimated project cost: **28,440 – 52,500 BDT**
 ## 👨‍💻 Authors  
 - **Chayon Kumar Das** 
 - **Suvro Kumar Das** 
-- Supervised by: **Md Toukir Ahmed**, Assistant Professor, Dept. of IoT & Robotics Engineering, Gazipur Digital University  
+- Supervised by: **Md Toukir Ahmed**, Assistant Professor, Dept. of IoT & Robotics Engineering, University of Frontier Technology, Bangladesh 
 
 ---
 
